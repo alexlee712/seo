@@ -1,1 +1,10 @@
-
+.body{
+    width:50%;
+    width:auto;
+    max-width:600px;
+    margin:0 auto;
+    background-color: aqua;
+}
+.h1{
+    color:beige;
+}
